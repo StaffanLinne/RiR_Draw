@@ -1,5 +1,5 @@
 # RiR_Draw
-Toolbar focused checking drawings
+Toolbar focused on drafting work
 For instructions on necessary installations see: [White Work](https://work.white.se/rhino-inside-revit/)  
 General guides RiR: https://www.rhino3d.com/inside/revit/1.0/guides/  
 Add the toolbar folder to your rhino.inside.revit tab according to this instruction (in the picture): https://discourse.mcneel.com/t/sharing-rhino-inside-scripts-among-team/131474/4 
