@@ -1,4 +1,4 @@
-# RiR-Draw-Toolbar
+# RiR_Draw
 Toolbar focused checking drawings
 For instructions on necessary installations see: [White Work](https://work.white.se/rhino-inside-revit/)  
 General guides RiR: https://www.rhino3d.com/inside/revit/1.0/guides/  
