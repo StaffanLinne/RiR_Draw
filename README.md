@@ -19,13 +19,14 @@ or run the script with Grasshopper Player
 ### Marking
 **20_QFilter** - Creates a filter that catches selected objects  
 **21_LFilter** - Creates a filter that tries to catch all objects in a selected linked file  
-**22_Filled Reg_Ele.gh** - Creates filled region covering selected elements  
-**23_Iso_Sel_Cat.gh** - Creates and applies a view template that is a copy of the existing view template but with all categories exept of the selected objects hidden. Click again and the parent template is restored. 
+**22_Filled Reg_Ele** - Creates filled region covering selected elements  
+**23_Iso_Sel_Cat** - Creates and applies a view template that is a copy of the existing view template but with all categories exept of the selected objects hidden. Click again and the parent template is restored. 
 
 ### Commenting
 **30_Hide_Red** - Hides all red text, lines or dimensions on a view or all views on a sheet  
-**31_Show_Red.gh** - Show all red text, lines or dimensions on a view or all views on a sheet
-
+**31_Show_Redh** - Show all red text, lines or dimensions on a view or all views on a sheet
+**31_Show_Red** - Show all red text, lines or dimensions on a view or all views on a sheet
+**40_Snapshot** - Creates lines from selected elements and saves them in the memory
 
 
 
