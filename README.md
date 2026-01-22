@@ -15,9 +15,6 @@ or run the script with Grasshopper Player
 **04_Dim_Cat_Side** - Creates dimensions for all objects of the selected object's category from side to closest wall  
 **05_Dim_Type_Side** - Creates dimensions for all objects of the selected object's type from sides to closest walls  
 
-### Rotate Walls slightly off axis
-**10_Rev_Off Axis_Wall** - Shows walls in plan that are slightly off axis (smaller than 1 degree) from grid directions  
-**11_Ro_Wall_Off Axis** - Rotates selected walls if they are slightly off axis
 
 ### Marking
 **20_QFilter** - Creates a filter that catches selected objects  
