@@ -23,8 +23,7 @@ or run the script with Grasshopper Player
 **23_Iso_Sel_Cat** - Creates and applies a view template that is a copy of the existing view template but with all categories exept of the selected objects hidden. Click again and the parent template is restored. 
 
 ### Commenting
-**30_Hide_Red** - Hides all red text, lines or dimensions on a view or all views on a sheet  
-**31_Show_Red** - Show all red text, lines or dimensions on a view or all views on a sheet  
+**30_Hide_Show_Colour** - Hides all text, detail lines, filled region and dimensions of a specific colour on a view or all views on a sheet  
 **40_Snapshot** - Creates lines from selected elements and saves them in the memory  
 
 
@@ -104,7 +103,7 @@ Staffan Linné, staffan.linne@white.se
 
 
 
-## 22_Filled Reg_Ele.gh
+## 22_Filled Reg_Ele
 
 **Intent:**  
 A quick way to create filled regions based on selected elements geometry
@@ -132,6 +131,38 @@ The script is best runned from the Revit Toolbar
 
 **Linked scripts**  
 **00_Del_RiR** can be used to delete filled regions in view.
+
+**Contact:** 
+Staffan Linné, staffan.linne@white.se
+
+
+## 30_Hide_Show_Colour
+
+**Intent:**  
+Hide and show objects of specific colour on a view
+
+**Input:**  
+An active viewport. The script will ask for input in a pop up window, select colours and hide/show
+
+**Output:**  
+Hide/unhide in view of the object of selected colour/colours
+
+**Dependencies:**  
+Rhino  
+Revit  
+Rhino Inside Revit  
+
+**Instructions:**
+The script is best runned from the Revit Toolbar
+
+1. Go to a view/sheet  
+3. Run script
+4. Select colour/colours (the colour/colours provided in the list is the one existing in the view/views
+
+**Limitations/Known issues** 
+Can be slow if there a lot of viewports on a sheet
+
+**Linked scripts**  
 
 **Contact:** 
 Staffan Linné, staffan.linne@white.se
